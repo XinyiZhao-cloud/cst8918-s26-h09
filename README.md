@@ -32,8 +32,10 @@ The newly created AKS cluster was verified inside Azure Portal.
 ### Screenshot 2 – Azure Portal Verification
 
 ![Azure Portal](screenshots/azure-rg.png)
+![AKS](screenshots/aks.png)
 
 The Azure Portal confirms that the resource group and AKS cluster were successfully created in Canada Central.
+Verified the AKS cluster in Azure Portal, including the cluster status, Kubernetes version, node pool configuration, and resource group information.
 
 ---
 
