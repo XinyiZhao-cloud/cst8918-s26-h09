@@ -1,0 +1,13 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+crash.log
+crash.*.log
+
+terraform.tfvars
+*.auto.tfvars
+
+kubeconfig
+
+.DS_Store
